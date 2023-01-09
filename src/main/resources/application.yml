@@ -1,0 +1,16 @@
+spring.main.allow-circular-references: true
+
+
+server:
+  port: 3001
+
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+
+logging:
+  level:
+    root: INFO
+    com.example.keycloak: DEBUG
+

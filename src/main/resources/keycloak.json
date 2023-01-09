@@ -1,0 +1,10 @@
+{
+  "realm": "realm1",
+  "auth-server-url": "http://localhost:8081/auth",
+  "ssl-required": "external",
+  "resource": "client_shopping",
+  "credentials": {
+    "secret": "Si0mMIO9e5toVMkPNN6YlqxubN3l3M1q"
+  },
+  "confidential-port": 0
+}
